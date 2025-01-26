@@ -12,5 +12,5 @@
     </padding>
 
     <Label fx:id="welcomeText"/>
-    <Button text="Hello!" onAction="#onHelloButtonClick"/>
+    <Button text="Hello!" onAction="#onHelloButtonClick" font="H:\Users\z1424\IdeaProjects\SAOUI2\src\main\resources\cn\zhonjc\saoui2\fonts\SAOUI-Bold.otf"/>
 </VBox>
